@@ -1,9 +1,9 @@
-# README Generator.
+# README Generator
     
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  This application creates a README file for the user.
+  This app helps the user create a README file.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -23,7 +23,7 @@
 This project is licensed under the MIT license.
 
   ## Contributing
-  No contributions are needed at this time.
+  By refining the code.
 
   ## Test
   npm test

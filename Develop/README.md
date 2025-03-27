@@ -1,35 +1,35 @@
-# sdfgsd
+# README Generator.
     
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-  ## Description:
-  sdfgs
+  ## Description
+  This application creates a README file for the user.
 
   ## Table of Contents
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
+  - [Usage](#usage)  
+ - [License](#license)
   - [Contributing](#contributing)
   - [Test](#test)
   - [Questions](#questions)
 
   ## Installation
-  sdgf
+  npm i
 
   ## Usage
-  sdf
+  By answering the prompted questions.
 
   ## License
 This project is licensed under the MIT license.
 
   ## Contributing
-  sdfgds
+  No contributions are needed at this time.
 
   ## Test
-  sdfg
+  npm test
 
   ## Questions
   Should you have questions/concerns, please reach me via:
-  - GitHub: [dfg](https://github.com/dfg)
-  - Email: [d](mailto:d)
+  - GitHub: [deetsb](https://github.com/deetsb)
+  - Email: [aditya.a.bhonsle@gmail.com](mailto:aditya.a.bhonsle@gmail.com)
 
